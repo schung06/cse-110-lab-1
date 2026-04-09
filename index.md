@@ -24,4 +24,9 @@ You can explore my portfolio site [here](https://schung06.github.io/portfolio/).
  2. Going on walks
  3. Cooking
 
+## Goals for 2026
+- [x] Pass an online assessment for a SWE internship
+- [x] Secure an internship for summer 2026
+- [ ] Network with more people in my major
+
 
