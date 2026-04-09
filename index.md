@@ -1,4 +1,6 @@
 # Welcome to Stephanie's Github User Page!
+![Hero Gif](./header.gif)
+
 [Go to README](README.md)
 
 ```
